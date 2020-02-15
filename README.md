@@ -15,7 +15,7 @@ Game instructions:
 
 2) First move is yours and square selected is eaten and squares to the right and below are also eaten. “Your turn” displayed at bottom of frame.
 
-3)Computer plays move and square selected is eaten and squares to the right and below are also eaten. Computer’s selection is displayed at the bottom of the frame AFTER squares are eaten.
+3) Computer plays move and square selected is eaten and squares to the right and below are also eaten. Computer’s selection is displayed at the bottom of the frame AFTER squares are eaten.
 
 4) Winner is announced.
 
